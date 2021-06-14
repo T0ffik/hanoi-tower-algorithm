@@ -65,5 +65,6 @@ int main ()
     }
     help=n;
     tower(n, a, b, c, K, L, help);
+    system("pause");
     return 0;
 }

@@ -9,7 +9,7 @@ This progrtam is made for exercise on my IT collage lessons.
 - Visual Studio Code with extensions
 
 ## Program functionalities
-Give solution to Tower of Hanoi problem with grafic visualization.
+Give solution to Tower of Hanoi problem with graphic visualization.
 
 ## How to run a program on your local computer?
 - Clone this repository
